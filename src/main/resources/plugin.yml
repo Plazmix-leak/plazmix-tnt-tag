@@ -1,0 +1,7 @@
+name: PlazmixTntTag
+main: net.plazmix.tnttag.PlazmixTntTagPlugin
+version: 1.0
+author: Frotter
+
+depend:
+  - PlazmixAPI
